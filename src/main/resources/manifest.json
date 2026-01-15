@@ -1,0 +1,25 @@
+{
+  "Group": "com.dunystudios.hytale.plugins",
+  "Name": "HyEconomy",
+  "Version": "1.0.0",
+  "Description": "Hytale Economy Plugin",
+  "Main": "com.dunystudios.hytale.plugins.HyEconomy",
+  "Authors": [
+    {
+      "Name": "Zen-kun04",
+      "Email": "baguette@dunystudios.com",
+      "Url": "https://example.com"
+    }
+  ],
+  "Website": "https://example.com/myplugin",
+  "ServerVersion": ">=0.0.1",
+  "Dependencies": {
+    "com.dunystudios.hytale.plugins:EcoAPI": ">=1.0.0"
+  },
+  "OptionalDependencies": {
+  },
+  "LoadBefore": {
+  },
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false
+}
