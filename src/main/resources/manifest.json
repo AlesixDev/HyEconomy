@@ -8,10 +8,10 @@
     {
       "Name": "Zen-kun04",
       "Email": "baguette@dunystudios.com",
-      "Url": "https://example.com"
+      "Url": "https://github.com/Zen-kun04"
     }
   ],
-  "Website": "https://example.com/myplugin",
+  "Website": "https://github.com/Zen-kun04/HyEconomy",
   "ServerVersion": ">=0.0.1",
   "Dependencies": {
     "com.dunystudios.hytale.plugins:EcoAPI": ">=1.0.0"
